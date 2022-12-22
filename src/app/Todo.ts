@@ -1,0 +1,7 @@
+export class Todo{
+    sno: number;
+    title: string;
+    desc: string;
+    activity: boolean;
+
+}
